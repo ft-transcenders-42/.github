@@ -1,5 +1,4 @@
 <div align="center">
-
 # EigoSiro 🎙️
 
 ### I hate English. But I want to speak it better.
